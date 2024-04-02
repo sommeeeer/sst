@@ -1,5 +1,17 @@
 # @serverless-stack/cli2
 
+## 2.41.4
+
+### Patch Changes
+
+- [#3720](https://github.com/sst/sst/pull/3720) [`e3c96d89d`](https://github.com/sst/sst/commit/e3c96d89d0fe689cbc6dfee4cb4e4319e7338e67) Thanks [@bayssmekanique](https://github.com/bayssmekanique)! - Astro: fixes 404s caused by dead in route branches in CF routing
+
+## 2.41.3
+
+### Patch Changes
+
+- [#3713](https://github.com/sst/sst/pull/3713) [`e950c6028`](https://github.com/sst/sst/commit/e950c60288e7cb9ae40d813f46e38227f777129d) Thanks [@sommeeeer](https://github.com/sommeeeer)! - NextjsSite: include x-prerender-revalidate in allowed headers
+
 ## 2.41.2
 
 ### Patch Changes
